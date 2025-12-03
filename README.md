@@ -10,3 +10,6 @@
 - conda create -n RAT python=3.8
 - conda activate RAT
 - pip install -r requirements.txt
+
+## Citation
+RAT: Residual Attention Transformer for Tabular Data
